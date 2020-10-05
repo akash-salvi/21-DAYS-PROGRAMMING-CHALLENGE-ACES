@@ -1,0 +1,10 @@
+Introduction to Full Stack:
+
+Installation of different software:
+-Node
+-Mongo
+-MongoDB
+-Express
+-Robo 3T 1.4.1
+
+Learned about the Express Server and Data Modelling. 

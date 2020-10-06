@@ -1,0 +1,6 @@
+Learned about Express and reading documentation and assignments related.
+
+Learned about Nodemon.
+
+Create a  Module, basic Schema using Mongoose.
+And created first virtual 

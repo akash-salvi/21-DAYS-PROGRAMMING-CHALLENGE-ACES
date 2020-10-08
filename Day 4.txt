@@ -1,0 +1,2 @@
+Learned about data connectivity i.e mongoDB connections and other DB talk.
+and about enviornment variables in process. 

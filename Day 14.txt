@@ -1,1 +1,1 @@
-Modified the Product and category models and added entries.
+Started to work in frontend.

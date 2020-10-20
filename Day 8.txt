@@ -1,1 +1,3 @@
-Did modification in user-validation and database.
+Learned about Params and handling user route,
+and how to update the data in database and how to print all the
+data present in database and at last use of Populate.

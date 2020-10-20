@@ -1,1 +1,3 @@
-Did modification in user-validation and database.
+Created the routes for categories, 
+using params saving the data in category module how to 
+delete a category and Testing of all routes.

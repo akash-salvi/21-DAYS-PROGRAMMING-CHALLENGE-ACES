@@ -1,1 +1,3 @@
-Did modification in user-validation and database.
+Adding the product Data in the backend i.e info and images.
+create a restriction in modification of data in Product.
+How to update the users inventory.

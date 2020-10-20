@@ -1,1 +1,2 @@
-Did user-validation and database Signin/Signup.
+Learned how to place the order and use of enum in module.
+and how to update the orders of user and the status.

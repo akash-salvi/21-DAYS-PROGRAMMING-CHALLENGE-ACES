@@ -1,5 +1,5 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-Learning MERN
+Learning MERN and Developing Project.
 
 A T-Shirt Store.
 
